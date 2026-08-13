@@ -1,0 +1,10 @@
+{
+  "name": "playwright-cli-portable",
+  "version": "1.0.0",
+  "private": true,
+  "description": "离线便携版 Playwright CLI + MCP + Chrome 扩展（含依赖与技能）",
+  "dependencies": {
+    "@playwright/cli": "^0.1.18",
+    "@playwright/mcp": "^0.0.79"
+  }
+}
